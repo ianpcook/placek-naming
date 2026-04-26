@@ -54,4 +54,4 @@ Safe names often feel good in meetings and disappear in the market. This skill i
 
 ## License
 
-MIT-0, unless you choose otherwise.
+MIT License.
