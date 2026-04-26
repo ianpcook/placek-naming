@@ -18,18 +18,6 @@ The skill guides an agent through:
 8. **Believability testing** — put names in real contexts instead of spreadsheets.
 9. **Final evaluation** — score names for originality, surprise, searchability, cross-market risk, and compounding value.
 
-## Key interaction rule
-
-The skill now explicitly requires a **proper back-and-forth**:
-
-- Ask one intake question at a time.
-- Wait for the user’s answer.
-- Use any supplied context doc before asking redundant questions.
-- Do not run the Comfort Trap Interview until the product/category is understood.
-- Ask Comfort Trap questions one at a time as well.
-
-No firing squads of five questions. No naming theater in the void.
-
 ## Files
 
 ```text
